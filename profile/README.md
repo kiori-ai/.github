@@ -18,4 +18,4 @@ Your app keeps the chat, the model and the brains. Kiori stores no brains and no
 - 🔒 **Nothing kept.** The brain is a JSON object that travels with each call and lives wherever you keep it.
 - 🧩 **Fits in.** JavaScript and Python SDKs, an OpenAI-compatible drop-in, and a SillyTavern extension. Any model, any language.
 
-In private beta, free while it lasts: [ask for access](https://kiori.io/#access). The code is coming here soon.
+In private beta, free while it lasts: [ask for access](https://kiori.io/#access). The code is in [kiori-ai/kiori](https://github.com/kiori-ai/kiori): the server is source-available (PolyForm Noncommercial), the SDKs and the [SillyTavern extension](https://github.com/kiori-ai/SillyTavern-Kiori) are MIT.
